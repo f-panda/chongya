@@ -1,0 +1,26 @@
+.input {
+	FONT-SIZE: 1.2rem;
+	text-align : right;
+		}
+        .right{
+            margin:-5% 3%;
+            width:730px;
+        }
+        .right table{
+            background:#4fbfa8;
+            width:48%;
+            border:1px solid #499B33;
+        }
+        .right td{
+            background:#4fbfa8;
+            text-align:center;
+            padding:1px;
+            border:1px solid #499B33;
+        }
+        .item{
+            text-align:center;            
+            width:100px;
+        }
+        .assigned{
+            border:1px solid #BC2A4D;
+        }        

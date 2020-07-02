@@ -1,0 +1,19 @@
+*[class*="fa-"] {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}.dropdown-menu {
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+.dropdown-menu > li > a {
+  padding: 5px 20px;
+}
+.dropdown-menu > li > a > i {
+  display: inline-block;
+  margin-right: 5px;
+}
